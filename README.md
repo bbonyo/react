@@ -53,8 +53,7 @@ C
 5. visual code의 terminal창에 다음과 같이 입력한다.
 6. git remote add origin 주소(저장하고자 하는 repository주소)
 7. git push --set-upstream origin master
-
-
+8. 한 번 terminal에 이 설정이 끝나고 나면 commit할때 상단의 ***메뉴바를 클릭해서 push를 누르면 된다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
